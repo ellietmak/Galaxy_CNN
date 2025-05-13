@@ -11,3 +11,7 @@ This project uses a Convolutional Neural Network to classify images of galaxies 
 - **Dataset:** Sloan Digital Sky Survey
 - **Accuracy:** Achieved ~75% validation accuracy
 
+## Notes
+- Data was preprocessed using normalization and augmentation (flip, rotate, zoom).
+- Early stopping and dropout were used to prevent overfitting.
+
