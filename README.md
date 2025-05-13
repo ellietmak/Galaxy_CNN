@@ -6,7 +6,7 @@ This project uses a Convolutional Neural Network to classify images of galaxies 
 
 ## Model Overview
 
-- **Architecture:** Custom CNN built with TensorFlow/Keras
+- **Architecture:** 50 Layer ResNet CNN built with TensorFlow/Keras
 - **Task:** Multi-class image classification of galaxy types
 - **Dataset:** Sloan Digital Sky Survey
 - **Accuracy:** Achieved ~75% validation accuracy
